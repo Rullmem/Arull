@@ -11,7 +11,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner Zifabotz tidak menerima save contact
+• Owner ArullBotzMD tidak menerima save contact
 • Owner Zifabotz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Zifabotz Hanya merespon yang berkaitan dengan BOT
